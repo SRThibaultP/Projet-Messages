@@ -1,0 +1,14 @@
+body
+{
+	background: url("../img/rxtxsimu.png") fixed no-repeat;
+}
+p
+{
+	width: 95px;
+	margin: auto;
+	border: 1px solid black;
+	text-align: justify;
+	padding: 12px;
+	margin-bottom: 20px;
+	font-size: xx-large;
+}
